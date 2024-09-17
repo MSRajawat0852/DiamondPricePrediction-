@@ -1,0 +1,4 @@
+[ 2024-09-18 01:09:26,412 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2024-09-18 01:09:27,331 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2024-09-18 01:09:27,340 ] 224 werkzeug - INFO -  * Debugger PIN: 786-506-273
+[ 2024-09-18 01:09:30,147 ] 224 werkzeug - INFO - 127.0.0.1 - - [18/Sep/2024 01:09:30] "GET /predict HTTP/1.1" 200 -
